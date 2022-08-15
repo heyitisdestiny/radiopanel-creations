@@ -21,14 +21,8 @@ def open_config() -> Union[None, dict]:
 
 
 def setup() -> None:
-    print_setup()
-    api_key = input("API Key: ")
-    
+    pass
 
-def print_setup() -> None:
-    print("This tool has not been configured.")
-    print("Please follow the prompts bellow to setup this tool.")
-    print("")
 
 def print_welcome() -> None:
     print("RadioPanel Creations: User Creation")

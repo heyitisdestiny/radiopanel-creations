@@ -1,0 +1,8 @@
+{
+    "baseurl": "http://example.com/",
+    "host": "0.0.0.0",
+    "auth_header": "Bearer N2NlNjdmNmUtOGMzMC00MDNjLWE5MjUtYWJkZTFkNThhNWNmOg==",
+    "db_pass": "WrZfk6JZ9Q26Q6DGyNAUAhTH",
+    "timeout": 10,
+    "setup": false
+}
